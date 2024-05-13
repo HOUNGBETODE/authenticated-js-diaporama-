@@ -1,0 +1,19 @@
+.head, .one, .image{
+    text-align: center;
+}
+.head p span{
+    font-weight: bolder;
+    font-size: 100px;
+    letter-spacing: 3px;
+}
+.photo{
+    width: 85%;
+}
+.photo{
+    margin: auto;
+    background-color: aquamarine;
+}
+.one span{
+    font-family: cursive; 
+    text-align: center;
+}
